@@ -1,4 +1,4 @@
-Hi, I'm Shrida! I'm a rising junior in high school interested in CS & design.
+Hi, I'm Shrida! I'm a high school junior interested in CS & design.
 
 <!---
 shrida-b/shrida-b is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
